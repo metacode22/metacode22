@@ -4,7 +4,6 @@
 - [의지력도 피곤함을 느낀다](https://metacode22.xyz/logs/even-willpower-gets-tired)
 
 <br />
-<br />
 
 이런 책들을 읽곤 합니다.
 
