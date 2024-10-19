@@ -1,5 +1,6 @@
 이런 생각들을 하면서 살고 있습니다.
 
+- [개구리를 먹어라](https://metacode22.xyz/logs/eat-that-frog)
 - [탁월성의 일상성](https://metacode22.xyz/logs/the-mundanity-of-excellence)
 - [의지력도 피곤함을 느낀다](https://metacode22.xyz/logs/even-willpower-gets-tired)
 
