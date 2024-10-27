@@ -16,4 +16,5 @@
 
 이런 개발 경험들을 공유해보았어요.
 
+- [Type-Safe env](https://metacode22.xyz/posts/type-safe-env)
 - [Git으로 범인 찾기](https://metacode22.xyz/posts/find-the-culprit-with-git-bisect)
