@@ -8,6 +8,7 @@
 
 이런 책들을 읽곤 합니다.
 
+- [레버리지](https://metacode22.xyz/books/leverage)
 - [실용주의 프로그래머](https://metacode22.xyz/books/the-pragmatic-programmer)
 - [돈, 뜨겁게 사랑하고 차갑게 다루어라](https://metacode22.xyz/books/money-hot-love-and-cold-treat)
 - [그 밖의 읽은 책들](https://metacode22.xyz/books)
