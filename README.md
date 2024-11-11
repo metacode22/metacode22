@@ -8,6 +8,7 @@
 
 이런 책들을 읽곤 합니다.
 
+- [왜 당신은 다른 사람을 위해 살고 있는가](https://metacode22.xyz/books/why-do-you-sacrifice-your-life-for-others)
 - [레버리지](https://metacode22.xyz/books/leverage)
 - [실용주의 프로그래머](https://metacode22.xyz/books/the-pragmatic-programmer)
 - [돈, 뜨겁게 사랑하고 차갑게 다루어라](https://metacode22.xyz/books/money-hot-love-and-cold-treat)
