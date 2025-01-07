@@ -8,6 +8,7 @@
 
 이런 책들을 읽곤 합니다.
 
+- [데일 카네기 자기관리론](https://metacode22.xyz/books/how-to-stop-worrying-and-start-living)
 - [왜 당신은 다른 사람을 위해 살고 있는가](https://metacode22.xyz/books/why-do-you-sacrifice-your-life-for-others)
 - [레버리지](https://metacode22.xyz/books/leverage)
 - [실용주의 프로그래머](https://metacode22.xyz/books/the-pragmatic-programmer)
@@ -18,5 +19,6 @@
 
 이런 개발 경험들을 공유해보았어요.
 
+- [crxjs와 함께 한 chrome extension 개발기](https://metacode22.xyz/posts/chrome-extension-with-crxjs)
 - [Type-Safe env](https://metacode22.xyz/posts/type-safe-env)
 - [Git으로 범인 찾기](https://metacode22.xyz/posts/find-the-culprit-with-git-bisect)
