@@ -19,6 +19,7 @@
 
 이런 개발 경험들을 공유해보았어요.
 
-- [crxjs와 함께 한 chrome extension 개발기](https://metacode22.xyz/posts/chrome-extension-with-crxjs)
+- [chrome extension 개발기 - 2. 자동 배포](https://metacode22.xyz/posts/chrome-extension-continuous-deployment)
+- [chrome extension 개발기 - 1. crxjs](https://metacode22.xyz/posts/chrome-extension-with-crxjs)
 - [Type-Safe env](https://metacode22.xyz/posts/type-safe-env)
 - [Git으로 범인 찾기](https://metacode22.xyz/posts/find-the-culprit-with-git-bisect)
