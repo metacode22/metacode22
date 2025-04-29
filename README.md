@@ -8,6 +8,7 @@
 
 이런 책들을 읽곤 합니다.
 
+- [상자 밖에 있는 사람](https://metacode22.xyz/books/getting-out-of-the-box)
 - [데일 카네기 자기관리론](https://metacode22.xyz/books/how-to-stop-worrying-and-start-living)
 - [왜 당신은 다른 사람을 위해 살고 있는가](https://metacode22.xyz/books/why-do-you-sacrifice-your-life-for-others)
 - [레버리지](https://metacode22.xyz/books/leverage)
